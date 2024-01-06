@@ -1,0 +1,25 @@
+{
+  "id" : 8,
+  "title" : "asdf",
+  "x" : 24.0,
+  "y" : 346.0,
+  "width" : 400.0,
+  "height" : 300.0,
+  "bgColor" : "#0077BE",
+  "dataSource" : [
+    "https://query1.finance.yahoo.com/v8/finance/chart/AAPL?interval=5m"
+  ],
+  "xRange" : {
+    "start" : null,
+    "end" : null
+  },
+  "yRange" : {
+    "start" : null,
+    "end" : null
+  },
+  "live" : true,
+  "chart" : {
+    "type" : "PieChartCategoric",
+    "field" : "chart.result[0].meta.symbol"
+  }
+}

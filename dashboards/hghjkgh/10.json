@@ -1,0 +1,19 @@
+{
+  "id" : 10,
+  "title" : "raha",
+  "x" : 35.0,
+  "y" : 152.0,
+  "width" : 304.0,
+  "height" : 251.0,
+  "bgColor" : "#0077BE",
+  "dataSource" : [
+    "data/testfile.csv"
+  ],
+  "xRange" : null,
+  "yRange" : null,
+  "live" : false,
+  "chart" : {
+    "type" : "PieChartCategoric",
+    "field" : "Date"
+  }
+}

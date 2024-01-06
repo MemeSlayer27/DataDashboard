@@ -1,0 +1,33 @@
+{
+  "id" : 5,
+  "title" : "efsdg",
+  "x" : 618.0,
+  "y" : 375.0,
+  "width" : 587.0,
+  "height" : 322.0,
+  "bgColor" : "#0077BE",
+  "dataSource" : [
+    "data/testfile.csv"
+  ],
+  "xRange" : {
+    "start" : null,
+    "end" : null
+  },
+  "yRange" : {
+    "start" : null,
+    "end" : null
+  },
+  "live" : false,
+  "chart" : {
+    "type" : "Plot",
+    "fields" : [
+      [
+        "Numeric1",
+        "Numeric2"
+      ]
+    ],
+    "names" : [
+      "htrsdrtyfjkgh"
+    ]
+  }
+}

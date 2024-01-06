@@ -1,0 +1,19 @@
+{
+  "id" : 11,
+  "title" : "cardss",
+  "x" : 64.0,
+  "y" : 431.0,
+  "width" : 339.0,
+  "height" : 250.0,
+  "bgColor" : "#87CEEB",
+  "dataSource" : [
+    "https://deckofcardsapi.com/api/deck/new/draw/?count=2"
+  ],
+  "xRange" : null,
+  "yRange" : null,
+  "live" : true,
+  "chart" : {
+    "type" : "BarChartCategoric",
+    "field" : "cards[0].suit"
+  }
+}

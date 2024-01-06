@@ -1,0 +1,39 @@
+{
+  "id" : 24,
+  "title" : "sdfghj",
+  "x" : 41.0,
+  "y" : 316.0,
+  "width" : 407.0,
+  "height" : 379.0,
+  "bgColor" : "#FFD700",
+  "dataSource" : [
+    "data/testfile.csv",
+    "data/testfile.csv"
+  ],
+  "xRange" : {
+    "start" : null,
+    "end" : null
+  },
+  "yRange" : {
+    "start" : null,
+    "end" : null
+  },
+  "live" : false,
+  "chart" : {
+    "type" : "Plot",
+    "fields" : [
+      [
+        "Numeric1",
+        "Numeric2"
+      ],
+      [
+        "Numeric2",
+        "Numeric1"
+      ]
+    ],
+    "names" : [
+      "srtjyt",
+      "mnbvc"
+    ]
+  }
+}

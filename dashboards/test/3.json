@@ -1,0 +1,25 @@
+{
+  "id" : 3,
+  "title" : "dafg",
+  "x" : 501.0,
+  "y" : 59.0,
+  "width" : 286.0,
+  "height" : 215.0,
+  "bgColor" : "#FFD700",
+  "dataSource" : [
+    "data/testfile.csv"
+  ],
+  "xRange" : {
+    "start" : null,
+    "end" : null
+  },
+  "yRange" : {
+    "start" : null,
+    "end" : null
+  },
+  "live" : false,
+  "chart" : {
+    "type" : "PieChartCategoric",
+    "field" : "Numeric1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id" : 1,
+  "title" : "reeee",
+  "x" : 865.0,
+  "y" : 24.0,
+  "width" : 387.0,
+  "height" : 316.0,
+  "bgColor" : "#98FF98",
+  "dataSource" : [
+    "data/stock.csv"
+  ],
+  "xRange" : null,
+  "yRange" : null,
+  "live" : false,
+  "chart" : {
+    "type" : "PieChartCategoric",
+    "field" : "Volume"
+  }
+}

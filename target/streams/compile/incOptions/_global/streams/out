@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/axeltalonpoika/Projects/School/OS2/DataDashboardAxelT/target/scala-3.1.3/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFXHelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFXHelloWorld$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFXHelloWorld$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFXHelloWorld$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFXHelloWorld$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Canvas.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFXHelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFXHelloWorld$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Card.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFXHelloWorld$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFXHelloWorld$$anon$4.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFXHelloWorld$$anon$2.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFXHelloWorld$$anon$5.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFXHelloWorld$$anon$3.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Canvas.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFXHelloWorld.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaFXHelloWorld$$anon$1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Card.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/axeltalonpoika/Projects/School/OS2/DataDashboardAxelT/target/scala-3.1.3/classes.bak[0m

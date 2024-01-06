@@ -1,0 +1,24 @@
+{
+  "id" : 1,
+  "title" : "Temperature Data",
+  "x" : 0.0,
+  "y" : 0.0,
+  "width" : 300.0,
+  "height" : 200.0,
+  "bgColor" : "#FFFFFF",
+  "dataSource" : ["test_resources/sensor_readings.csv"],
+  "xRange" : {
+    "start" : 0.0,
+    "end" : 100.0
+  },
+  "yRange" : {
+    "start" : -10.0,
+    "end" : 40.0
+  },
+  "live" : false,
+  "chart" : {
+    "type": "PieChartNumeric",
+    "intervals" : 10,
+    "field" : "temperature"
+  }
+}

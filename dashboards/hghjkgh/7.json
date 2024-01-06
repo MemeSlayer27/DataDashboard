@@ -1,0 +1,30 @@
+{
+  "id" : 7,
+  "title" : "dagef",
+  "x" : 845.0,
+  "y" : 63.0,
+  "width" : 343.0,
+  "height" : 268.0,
+  "bgColor" : "#FFD700",
+  "dataSource" : [
+    "https://query1.finance.yahoo.com/v8/finance/chart/AAPL?interval=5m"
+  ],
+  "xRange" : {
+    "start" : null,
+    "end" : null
+  },
+  "yRange" : {
+    "start" : null,
+    "end" : null
+  },
+  "live" : true,
+  "chart" : {
+    "type" : "TimeSeriesPlot",
+    "fields" : [
+      "chart.result[0].meta.regularMarketTime"
+    ],
+    "names" : [
+      "asgfdgnf"
+    ]
+  }
+}

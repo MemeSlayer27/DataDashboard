@@ -1,0 +1,19 @@
+{
+  "id" : 17,
+  "title" : "rned ",
+  "x" : 460.0,
+  "y" : 334.0,
+  "width" : 340.0,
+  "height" : 267.0,
+  "bgColor" : "#E936A7",
+  "dataSource" : [
+    "https://deckofcardsapi.com/api/deck/new/draw/?count=2"
+  ],
+  "xRange" : null,
+  "yRange" : null,
+  "live" : true,
+  "chart" : {
+    "type" : "PieChartCategoric",
+    "field" : "cards[1].value"
+  }
+}

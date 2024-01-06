@@ -1,0 +1,25 @@
+{
+  "id" : 2,
+  "title" : "asdg",
+  "x" : 52.0,
+  "y" : 75.0,
+  "width" : 326.0,
+  "height" : 184.0,
+  "bgColor" : "#FFD700",
+  "dataSource" : [
+    "https://deckofcardsapi.com/api/deck/new/draw/?count=2"
+  ],
+  "xRange" : {
+    "start" : null,
+    "end" : null
+  },
+  "yRange" : {
+    "start" : null,
+    "end" : null
+  },
+  "live" : true,
+  "chart" : {
+    "type" : "BigNumber",
+    "field" : "cards[1].suit"
+  }
+}

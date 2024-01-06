@@ -1,0 +1,25 @@
+{
+  "id" : 22,
+  "title" : "arvot",
+  "x" : 149.0,
+  "y" : 14.0,
+  "width" : 312.0,
+  "height" : 275.0,
+  "bgColor" : "#E936A7",
+  "dataSource" : [
+    "https://deckofcardsapi.com/api/deck/new/draw/?count=2"
+  ],
+  "xRange" : {
+    "start" : null,
+    "end" : null
+  },
+  "yRange" : {
+    "start" : null,
+    "end" : null
+  },
+  "live" : true,
+  "chart" : {
+    "type" : "PieChartCategoric",
+    "field" : "cards[1].value"
+  }
+}
